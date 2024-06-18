@@ -18,7 +18,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> </div>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅</h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oracle312&layout=compact&theme=dracula"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅</h2> <div align= "center"> <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oracle312&layout=compact&theme=dracula"
          /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=oracle312&show_icons=true&theme=dracula"
            /> </div> 
     </div>
