@@ -21,6 +21,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://imoracle.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imoracle.tistory.com/"> </a>
+        [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=imoracle&theme=default)](https://imoracle.tistory.com)
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
