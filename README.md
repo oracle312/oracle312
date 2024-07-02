@@ -18,6 +18,12 @@
   <img alt="Microsoft PowerPoint" src ="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
     <div style="margin: 0 auto; text-align: center;" align= "center"> </div>
     </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://imoracle.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://imoracle.tistory.com/"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅</h2> <div align= "center"> <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oracle312&layout=compact&theme=dracula"
          /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=oracle312&show_icons=true&theme=dracula"
